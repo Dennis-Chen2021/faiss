@@ -4,10 +4,6 @@
 
 ---
 
-[TOC]
-
-
-
 ## 0.硬件配置
 
 > CPU: AMD Ryzen 7 5800H with Radeon Graphics 
